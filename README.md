@@ -1,8 +1,8 @@
 Useful links
 =====
 
-[Transport](transport/)
+[Transport](transport)
 ------
 
-[Australian government info](gov_info/)
+[Australian government info](gov_info)
 ------
