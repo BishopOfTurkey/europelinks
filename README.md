@@ -15,7 +15,3 @@ Australian government info
 
 [Online Help](http://smartraveller.gov.au/help/Pages/default.aspx) - [List of embassies](http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx)
 
-
-### Other ###
-
-[Markdown](markdown/)
