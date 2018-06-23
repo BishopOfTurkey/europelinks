@@ -27,4 +27,4 @@ Bus Travel
 
 Ferries
 ---
-[Croatia Ferries](https://www.jadrolinija.hr/en/ferry-croatia)
+* [Croatia Ferries](https://www.jadrolinija.hr/en/ferry-croatia)
