@@ -1,8 +1,8 @@
 Useful links
 =====
 
-[Transport](transport)
+[Transport](https://bishopofturkey.github.io/europelinks/transport)
 ------
 
-[Australian government info](gov_info)
+[Australian government info](https://bishopofturkey.github.io/europelinks/gov_info)
 ------
